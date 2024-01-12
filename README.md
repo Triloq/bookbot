@@ -1,1 +1,1 @@
-# bookbot
+BookBot is my ...well not first but first in a while... git project!
